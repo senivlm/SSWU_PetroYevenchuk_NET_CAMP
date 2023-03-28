@@ -1,7 +1,7 @@
 ﻿using HomeTask1;
 
 internal class Program
-{
+{//Вітаю. Перше завдання по створенню репозиторію Ви виконали.
     private static void Main()
     {
         Console.WriteLine("Press ENTER to continue!\n");
